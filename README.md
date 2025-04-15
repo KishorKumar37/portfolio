@@ -35,7 +35,7 @@ Aspiring AI / ML Researcher | Passionate about LLM fine-tuning and Agentic frame
 • **Cross-team Leadership**: Managed collaboration across DB, tracking API, and frontend teams
 
 ## Competitions
-[**Healthcare Provider Matching System**]() | *Python, LLama LLM, LangGraph, StreamLit*
+[**Healthcare Provider Matching System**]() |*Python, LLama LLM, LangGraph, StreamLit*
 *UB AI Hackathon |Lighthouse Medical Center*
 
 • **RAG Implementation**: Built LangFlow-based agent achieving 89% accuracy in provider matching
@@ -44,7 +44,7 @@ Aspiring AI / ML Researcher | Passionate about LLM fine-tuning and Agentic frame
 
 • **Accessibility Focus**: Developed user interface optimized for low technology literacy users (∼60% of population)
 
-[**Operational Maintenance of Vehicles**]() | *Python, TF, TFLite, Android Studio*
+[**Operational Maintenance of Vehicles**]() |*Python, TF, TFLite, Android Studio*
 *Smart India Hackathon |Motorola Corp*
 
 • **Defect Detection**: Designed CNN with encoder-decoder principle achieving 82% accuracy across 18 classes
@@ -54,19 +54,19 @@ Aspiring AI / ML Researcher | Passionate about LLM fine-tuning and Agentic frame
 • **Mobile Deployment**: Successfully deployed TFLite model on Android capable of 15 fps latency
 
 ## Projects
-[**Windspeed Prediction for Solar Energy Forecasting**]() | *Python, PyTorch, Torch Multiprocessing*
+[**Windspeed Prediction for Solar Energy Forecasting**]() |*Python, PyTorch, Torch Multiprocessing*
 
 • **Model Development**: Designed a Stateful LSTM RNN in TensorFlow to predict daily windspeed and solar radiation levels at 1-hour intervals, achieving an average error of 4.75%
 
 • **Data Preprocessing**: Conducted data cleaning and analysis to address challenges such as multi-collinearity and sparse features in a 38-feature weather dataset with 500K data points spanning 4 years, improving model robustness.
 
-[**Model Quantization Research**]() | *Python, Quantization, TF, TFLite, NVIDIA Mixed Precision Training*
+[**Model Quantization Research**]() |*Python, Quantization, TF, TFLite, NVIDIA Mixed Precision Training*
 
 • **Mobile Optimization**: Successfully quantized RelPose model using TFLite and NVIDIA mixed precision frameworks for mobile deployment
 
 • **Large-scale Training**: Orchestrated parallel training across 2 RTX 3080TI GPUs processing 1.4 TB image dataset
 
-[**Multi-Drone Navigation and Search using RL**]() | *Python, PyTorch, Torch Multiprocessing*
+[**Multi-Drone Navigation and Search using RL**]() |*Python, PyTorch, Torch Multiprocessing*
 
 • **Autonomous Navigation**: Built RL-based navigation achieving 87% efficiency vs centralized algorithms
 
