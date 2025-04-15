@@ -14,7 +14,7 @@ Aspiring AI / ML Researcher | Passionate about LLM fine-tuning and Agentic frame
 ## Work Experience
 **Wireless Networks for Smart Systems Lab (UB, Buffalo) | *May 24 – Present***
 
-*Research Assistant | Paper*
+*Research Assistant |Paper*
 
 • **Predictive Modeling**: Designed ANN achieving 1.83 dB (2.81%) Mean Absolute Error in signal strength prediction
 
@@ -22,7 +22,7 @@ Aspiring AI / ML Researcher | Passionate about LLM fine-tuning and Agentic frame
 
 • **Cross-region Deployment**: Model trained with Buffalo data generalizes to Elmira with minimal loss (2.13 dB MAE
 
-**Wipro Ltd. | *Aug 21 – Jul 23***
+**Wipro Ltd. |*Aug 21 – Jul 23***
 
 *Backend Web Developer*
 
