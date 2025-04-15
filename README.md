@@ -2,9 +2,9 @@
 Aspiring AI / ML Researcher | Passionate about LLM fine-tuning and Agentic frameworks | Master’s in Computer Science (AI / ML focus) | Open to Opportunities
 
 ## Education
-**University at Buffalo - State University of New York Master of Science in Computer Science and Engineering (AI / ML focus) - *Aug 23 – Jan 25***
+**University at Buffalo - State University of New York Master of Science in Computer Science and Engineering (AI / ML focus) | *Aug 23 – Jan 25***
 
-**National Institute of Technology - Tiruchirapalli B.Tech in Electrical and Electronics Engineering (minor in Computer Science) - *Aug 17 – Jul 21***
+**National Institute of Technology - Tiruchirapalli B.Tech in Electrical and Electronics Engineering (minor in Computer Science) | *Aug 17 – Jul 21***
 ## Certifications
 • [AWS Certified Cloud Practitioner - Foundational](https://www.credly.com/badges/80f4adaf-13e0-419a-aacf-70741d6c969d/public_url)
 
@@ -12,8 +12,9 @@ Aspiring AI / ML Researcher | Passionate about LLM fine-tuning and Agentic frame
 
 • [Deep Learning Specialization (DeepLearning.AI)](https://www.coursera.org/account/accomplishments/specialization/certificate/M7QXF3SA5DDR)
 ## Work Experience
-**Wireless Networks for Smart Systems Lab May 24 – Present**
-*Research Assistant | Paper UB, Buffalo, NY*
+**Wireless Networks for Smart Systems Lab (UB, Buffalo) | *May 24 – Present***
+
+*Research Assistant | Paper*
 
 • **Predictive Modeling**: Designed ANN achieving 1.83 dB (2.81%) Mean Absolute Error in signal strength prediction
 
@@ -21,7 +22,8 @@ Aspiring AI / ML Researcher | Passionate about LLM fine-tuning and Agentic frame
 
 • **Cross-region Deployment**: Model trained with Buffalo data generalizes to Elmira with minimal loss (2.13 dB MAE
 
-**Wipro Ltd. Aug 21 – Jul 23**
+**Wipro Ltd. | *Aug 21 – Jul 23***
+
 *Backend Web Developer*
 
 • **Feature Development**: Delivered 18 API features for FedEx account administration system
